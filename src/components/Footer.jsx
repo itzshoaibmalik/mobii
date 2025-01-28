@@ -8,11 +8,11 @@ export default function Footer() {
                 <img src="/images/logo.svg" className='w-[90px]' alt="Logo"/>
             </div>
             <div className='text-sm max-md:text-xs'><p>This site does not store any files on our server, we only link to the media which is hosted on 3rd party services.</p></div>
-            <div className='text-sm'>Copyright © zmov 2024</div>
+            <div className='text-sm'>Copyright © mobii 2024</div>
         </div>
         <div className='flex items-center ml-[10px] gap-6'>
             <Link to="/dmca" className='font-bold opacity-50 no-underline hover:opacity-100'>DMCA</Link>
-            <a target="_blank" href="https://github.com/coen-h" rel="noopener noreferrer"><i className="fa-brands fa-github text-white text-[40px] opacity-50 hover:opacity-100" alt="Github Icon"></i></a>
+            <a target="_blank" href="https://github.com/itzshoaibmalik" rel="noopener noreferrer"><i className="fa-brands fa-github text-white text-[40px] opacity-50 hover:opacity-100" alt="Github Icon"></i></a>
         </div>
     </div>
     )
