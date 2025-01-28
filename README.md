@@ -1,7 +1,7 @@
 <br/>
 
 <div align="center"> 
-  # mobii
+## mobii
 <image src="/src/assets/logoo.png" width="300"/>
 
 ### Watch all your movies, shows and anime for free!
